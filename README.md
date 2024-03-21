@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/alaaldien/skills-hello-github-actions/actions/workflows/main.yml/badge.svg)
 🤣😍❤❤❤❤❤
 <header>
 
